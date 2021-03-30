@@ -1,0 +1,13 @@
+{
+  "LogicVersion": "6.5",
+  "featureToggles": {
+      "DwellPeriod": 1,
+      "UseReorderEnhancements": true,
+      "RemoveDwellWeekFromDemandNeed": true,
+      "UseReorderForPreseason": true,
+      "UseDynamicSeasonalityReference": true,
+      "UseExtendedBackloadedPercentage": true,
+      "FixBackloadedMOQCheck": true,
+      "UseDPOGoal": true
+    }
+}
